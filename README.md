@@ -6,7 +6,7 @@
   <img alt="Bikcraft-Home" src="./github/biklogo.png" width="100%">
 </p>
 
-**Tecnologias Utilizadas:**
+**Tecnologias utilizadas:**
  - Html
 - Css
 - Javascript
