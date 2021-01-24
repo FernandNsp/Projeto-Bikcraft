@@ -1,13 +1,13 @@
 # 💻 Projeto-Bikcraft
  Desenvolvido durante o curso de Web Design Completo da plataforma Origamid, disponibilizado pela byron na sua capacitação de tecnologias.
 
-**Visualização da primeira página:**
+**Visualização da página principal:**
 <p align="center">
   <img alt="Bikcraft-Home" src="./github/biklogo.png" width="100%">
 </p>
 
 
- Para ter a visualização completa do site clique <a href="https://fernandnsp.github.io/web/">aqui</a>.
+- Para ter a visualização completa do site clique <a href="https://fernandnsp.github.io/web/">aqui</a>.
 
 **Tecnologias utilizadas:**
  - Html
