@@ -545,7 +545,7 @@ img{
    margin-bottom: 20px;
 }
 
-/* Portifólio */
+/* Portfólio */
 .portfolio{
    width: 100%;
    padding: 40px;
@@ -972,10 +972,10 @@ img{
    margin: 8px 0;
 }
 
-/* PORTIFOLIO */
+/* portfolio */
 
-.introducao-portifolio{
-   background: url(../img/portfolio/bg-portifolio.jpg) no-repeat center;
+.introducao-portfolio{
+   background: url(../img/portfolio/bg-portfolio.jpg) no-repeat center;
    background-size: cover;
 }
 
@@ -1151,7 +1151,7 @@ img{
 @media only screen and (max-width: 868px){
 	
 	/* Introducao */
-	.introducao-sobre, .introducao-produtos, .introducao-portifolio, .introducao-contato{
+	.introducao-sobre, .introducao-produtos, .introducao-portfolio, .introducao-contato{
 		margin-top: 0;
 	}
 

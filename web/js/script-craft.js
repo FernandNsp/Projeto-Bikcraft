@@ -1,13 +1,13 @@
 if(window.SimpleSlide){
    new SimpleSlide({
       slide: "quote",
-      time: 5000
+      time: 6000
    });
    
    new SimpleSlide({
-      slide: "portifolio",
+      slide: "portfolio",
       nav: true,
-      time: 5000
+      time: 6000
    });
 }
 
