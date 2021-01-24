@@ -6,7 +6,7 @@
   <img alt="Bikcraft-Home" src="./github/biklogo.png" width="100%">
 </p>
 
-Para ter a visualização completa do site clique <a href="https://fernandnsp.github.io/web/">aqui</a>.
+<p>Para ter a visualização completa do site clique <a href="https://fernandnsp.github.io/web/">aqui</a>.</p>
 
 **Tecnologias utilizadas:**
  - Html
