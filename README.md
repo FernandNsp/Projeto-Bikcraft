@@ -7,5 +7,5 @@
 - Javascript
 - PHP (sendgrid)
 
-**Conhecendo novos programas**
- - Adobe XD: Na criação do wireframe e no design da página, ajudando a ter uma noção de como estaria o site finalizado.
+**Conhecendo um novo software**
+ - Adobe XD: Na criação do wireframe e no design da página. Possuindo o cuidado de ter um planejamento antes de começar a codar, sabendo onde colocar cada imagem, seu tamanho, dentre outros fatores.
