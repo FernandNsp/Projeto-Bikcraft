@@ -1,5 +1,5 @@
 # 💻 Projeto Bikcraft
- Desenvolvido durante o curso de Web Design Completo da plataforma Origamid, disponibilizado pela byron na sua capacitação de tecnologias.
+ Desenvolvido durante o curso de Web Design Completo da plataforma Origamid, disponibilizado pela <a href="https://byronsolutions.com/" target="_blank" rel="external">byron.solutions</a> na sua capacitação de tecnologias.
 
 **Visualização da página principal:**
 <p align="center">
