@@ -123,7 +123,7 @@ img{
    padding: 80px;
    margin-top: 80px;
    text-align: center;
-   background: url("../img/home/bg-intro.jpg") no-repeat center;
+   background: url("../assets/img/home/bg-intro.jpg") no-repeat center;
    background-size: cover;
 }
 
@@ -284,7 +284,7 @@ img{
    right: 158px;
    z-index: -1; /* Por trás de tudo */
    display: block;
-   background: url("../img/home/linhas-qualidade.svg") no-repeat;
+   background: url("../assets/img/home/linhas-qualidade.svg") no-repeat;
 }
 
 .qualidade img{
@@ -326,7 +326,7 @@ img{
    height: 220px;
    padding-top: 40px;
    text-align: center;
-   background: url("../img/home/bg-quote.jpg") no-repeat center;
+   background: url("../assets/img/home/bg-quote.jpg") no-repeat center;
    background-size: cover;
 }
 
